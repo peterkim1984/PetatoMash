@@ -1,0 +1,10 @@
+{
+  "name" : "PetatoMash",
+  "version" : "0.1.0",
+  "description" : "made with real Petatoes!",
+  "dependencies" : {
+    "mocha" : "^1.17.0",
+    "chai" : "1.9.1"
+  }
+}
+
